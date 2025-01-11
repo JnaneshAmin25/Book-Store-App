@@ -1,0 +1,97 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Whispers of Wonder: Tales to Spark Your Imagination",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1736304885~exp=1736308485~hmac=85fa307a954bdd79c094ccc67be6e0e7437dc292945137f6395cbc71dd1645db&w=740"
+    },
+    
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title":"Laugh Out Loud: Hilarious Tales to Brighten Your Day",
+        "price":20,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1736304885~exp=1736308485~hmac=85fa307a954bdd79c094ccc67be6e0e7437dc292945137f6395cbc71dd1645db&w=740"
+    },
+    
+    {
+        "id":3,
+        "name":"Sports Book",
+        "title":"Game On: Stories of Triumph and Team Spirit",
+        "price":50,
+        "category":"Sports",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1736304885~exp=1736308485~hmac=85fa307a954bdd79c094ccc67be6e0e7437dc292945137f6395cbc71dd1645db&w=740"
+    },
+    
+    {
+        "id":4,
+        "name":"Music Book",
+        "title":"Melodies of Life: Stories That Strike a Chord",
+        "price":400,
+        "category":"Sond",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1736304885~exp=1736308485~hmac=85fa307a954bdd79c094ccc67be6e0e7437dc292945137f6395cbc71dd1645db&w=740"
+    },
+    
+    {
+        "id":5,
+        "name":"Food Book",
+        "title":"Flavors Unfolded: A Culinary Journey Through Stories",
+        "price":200,
+        "category":"Food",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1736304885~exp=1736308485~hmac=85fa307a954bdd79c094ccc67be6e0e7437dc292945137f6395cbc71dd1645db&w=740"
+    },
+    
+    {
+        "id":6,
+        "name":"Drama Book",
+        "title":"Scenes of Life: Tales of Passion and Intrigue",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1736304885~exp=1736308485~hmac=85fa307a954bdd79c094ccc67be6e0e7437dc292945137f6395cbc71dd1645db&w=740"
+    },
+    
+    {
+        "id":7,
+        "name":"Story Book",
+        "title":"Whispers of Wonder: Tales to Spark Your Imagination",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1736304885~exp=1736308485~hmac=85fa307a954bdd79c094ccc67be6e0e7437dc292945137f6395cbc71dd1645db&w=740"
+    },
+    
+    {
+        "id":8,
+        "name":"Story Book",
+        "title":"Whispers of Wonder: Tales to Spark Your Imagination",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1736304885~exp=1736308485~hmac=85fa307a954bdd79c094ccc67be6e0e7437dc292945137f6395cbc71dd1645db&w=740"
+    },
+    {
+        "id":9,
+        "name":"Story Book",
+        "title":"Whispers of Wonder: Tales to Spark Your Imagination",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1736304885~exp=1736308485~hmac=85fa307a954bdd79c094ccc67be6e0e7437dc292945137f6395cbc71dd1645db&w=740"
+    },
+    {
+        "id":10,
+        "name":"Story Book",
+        "title":"Whispers of Wonder: Tales to Spark Your Imagination",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1736304885~exp=1736308485~hmac=85fa307a954bdd79c094ccc67be6e0e7437dc292945137f6395cbc71dd1645db&w=740"
+    },
+    {
+        "id":11,
+        "name":"Story Book",
+        "title":"Whispers of Wonder: Tales to Spark Your Imagination",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1736304885~exp=1736308485~hmac=85fa307a954bdd79c094ccc67be6e0e7437dc292945137f6395cbc71dd1645db&w=740"
+    }
+]
