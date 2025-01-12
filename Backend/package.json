@@ -1,0 +1,24 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "mern project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JnaneshAmin25/Book-Store-App.git"
+  },
+  "author": "Jnanesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JnaneshAmin25/Book-Store-App/issues"
+  },
+  "homepage": "https://github.com/JnaneshAmin25/Book-Store-App#readme",
+  "dependencies": {
+    "expres": "^0.0.5",
+    "express": "^4.21.2"
+  }
+}
